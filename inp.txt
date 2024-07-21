@@ -1,0 +1,7 @@
+Task_Name Arrival Time_Burst Time_deadline
+p1 0 20 25
+p2 25 25 75
+p3 30 25 60
+p4 60 15 80
+p5 100 10 110
+p6 105 10 115
